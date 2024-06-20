@@ -112,7 +112,7 @@
 										/*PAGE 2 VEG*/
 .veg
 {
-	height: 500px;
+	height: 100vh;
 	width: 100%;
 	background-color: #f0ead2;
 	/*background-image: url('veg.jpg');
@@ -214,6 +214,10 @@
 	{
 		margin-right: 50px;
 	}
+	.veg
+	{
+		height: 900px;
+	}
 	.veg .veg1
 	{
 		flex-direction: column;
@@ -232,8 +236,8 @@
 {
 	.header
 	{
-		width: 100%;
-		margin-left: 15px;
+		width: 110%;
+		margin-left: 0px;
 	}
 	.header h1
 	{
@@ -245,9 +249,9 @@
 	}
 	.veg
 	{
-		height: 120vh;
-		width: 100%;
-		margin-left: 10px;
+		height: 800px;
+		width: 105%;
+		margin-left: 14px;
 	}
 	.veg .veg1 .organic
 	{
