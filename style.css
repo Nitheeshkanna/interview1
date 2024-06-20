@@ -147,7 +147,7 @@
 .veg .veg1 .images1
 {
 	margin: 100px 50px 0px 0px;
-	height: 50vh;
+	height: 360px;
 	width: 700px;
 	background-image: url('veg1.jpg');
 	background-size: cover;
@@ -196,7 +196,7 @@
 	}
 	.header
 	{
-		height: 10vh;
+		height: 80px;
 	}
 	.header ul
 	{
@@ -257,6 +257,11 @@
 	{
 		font-size: 30px;
 	}
+	.veg .veg1 .organic h1
+	{
+		width: 80%;
+		font-size: 30px;
+	}
 	.veg .veg1 .organic form #search1
 	{
 		height: 50px;
@@ -271,8 +276,9 @@
 		background-color: #70e000;
 		color: white;
 		position: absolute;
-		top: 218px;
-		left: 180px;
+		top: 190px;
+		left: 178px;
+		border: 2px solid #ffbe0b;
 	}
 	.veg .veg1 .images1
 	{
